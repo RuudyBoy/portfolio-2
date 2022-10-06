@@ -9,6 +9,7 @@ import {
 import Container from 'react-bootstrap/Container';
 import Home from '../home/Home';
 import Portfolio from '../portfolio/Portfolio';
+import logo from "../../images/Portfolio-icon.png"
 
 
 
@@ -17,7 +18,7 @@ function Layout() {
     <Router>
       <Navbar bg="dark" variant="dark" expand="lg">
         <NavLink to="/" exact>
-          <Navbar.Brand>Portfolio</Navbar.Brand>
+          <Navbar.Brand> <img src={logo} alt="sneek peak of project"/></Navbar.Brand>
         </NavLink>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">

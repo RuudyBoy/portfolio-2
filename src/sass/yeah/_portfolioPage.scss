@@ -6,3 +6,25 @@
 img {
     width: 100%;
 }
+
+.projects-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.meg {
+    width: 500px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.meg-hjemme {
+    width: 400px;
+    margin: 0px auto;
+}

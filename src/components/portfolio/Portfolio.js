@@ -1,6 +1,7 @@
 import gamehub from "../../images/gamehub.png"
 import volleyblog from "../../images/volleyblog.png"
 import frameworks from "../../images/frameworks.png"
+import meg from "../../images/meg-portfolio.png"
 
 
 export default function Portfolio() {
@@ -9,6 +10,7 @@ export default function Portfolio() {
         <div>
         <h1>My work and projects</h1>
         <h2>Check out some of my projects throughout my studies.</h2>
+        <div className="projects-grid">
         <div className="projects-container">
             <div>
                 <div>
@@ -34,6 +36,10 @@ export default function Portfolio() {
                 <a>CSS Frameworks</a>
             </div>
             </div>
+        </div>
+        <div >
+        <img src={meg} alt="sneek peak of project" className="meg"/>
+        </div>
         </div>
     </div>
     </>
