@@ -27,6 +27,8 @@ or
 npm start
 
 Contact
+
 Instagram: ruuden98
+
 Facebook: Christian Jørgensen Ruud
 
