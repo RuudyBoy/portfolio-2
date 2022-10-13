@@ -28,7 +28,7 @@ npm start
 
 Contact
 
-Instagram: ruuden98
+Instagram: @ruuden98
 
 Facebook: Christian Jørgensen Ruud
 
