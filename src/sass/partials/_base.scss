@@ -15,3 +15,29 @@ body {
   .container {
     text-align: center;
   }
+
+
+
+  //Footer
+
+  .footer {
+    margin-top:auto;
+    color: white;
+    background: black;
+}
+
+//layout
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+#root {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  background: url(../../images/bakgrunn.jpg);
+  height: 100vh;
+ }
+
+

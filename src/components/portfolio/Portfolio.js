@@ -8,6 +8,7 @@ export default function Portfolio() {
     return (
         <>
         <div>
+        <div className="standard-background">
         <h1>My work and projects</h1>
         <h2>Check out some of my projects throughout my studies.</h2>
         <div className="projects-grid">
@@ -39,6 +40,7 @@ export default function Portfolio() {
         </div>
         <div >
         <img src={meg} alt="sneek peak of project" className="meg"/>
+        </div>
         </div>
         </div>
     </div>
