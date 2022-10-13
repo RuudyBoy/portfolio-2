@@ -1,8 +1,5 @@
 Portfolio
 
-image.png
-
-
 Description
 This is my personal portfolio page. The page contains information about me and my skills inside frontend development. 
 - Hotels
