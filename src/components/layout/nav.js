@@ -16,7 +16,7 @@ import logo from "../../images/Portfolio-icon.png"
 function Layout() {
   return (
     <Router>
-      <Navbar bg="dark" variant="dark" expand="lg">
+      <Navbar expand="lg">
         <NavLink to="/" exact>
           <Navbar.Brand> <img src={logo} alt="sneek peak of project"/></Navbar.Brand>
         </NavLink>
