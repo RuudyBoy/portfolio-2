@@ -49,6 +49,7 @@
 
 body { 
   background: url(../../images/bakgrunn.jpg);
+  background-size: cover;
   margin: 0;
   text-align: center;
 }
@@ -61,6 +62,7 @@ body {
 
  .navbar {
   background: url(../../images/NAVbakgrunn.jpg);
+  background-size: cover;
  }
 
  .navbar a {

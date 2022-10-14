@@ -7,7 +7,6 @@ import meg from "../../images/meg-portfolio.png"
 export default function Portfolio() {
     return (
         <>
-        <div>
         <div className="standard-background"> 
         <h1>My work and projects</h1>                
         <div className="projects-grid">
@@ -42,7 +41,6 @@ export default function Portfolio() {
         </div>
         </div>
         </div>
-    </div>
     </>
     );
   }
