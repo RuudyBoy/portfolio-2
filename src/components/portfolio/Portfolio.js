@@ -13,25 +13,28 @@ export default function Portfolio() {
         <div className="projects-grid">
         <div className="projects-container">
             <div className="project-card">
+                <a href="https://github.com/RuudyBoy/project-exam-2">
                 <img className="project-image" src={holidaze} alt="sneek peak of project"/>
                 <div className="project-info">
                 <h4>Project exam</h4>
                 <p>My project exam is a website called Holidaze. Holidaze is site for booking hotels in Bergen city.</p>
-                </div>
+                </div></a>
             </div>
             <div className="project-card" >
+                 <a href="https://github.com/RuudyBoy/javascript-frameworks-ca">
                 <img className="project-image" src={frameworks} alt="sneek peak of project"/>
             <div className="project-info">
                 <h4>JS Frameworks</h4>
                 <p>Js frameworks is a site showing a functional login form and displaying a list from a API call.</p>
-            </div>
+            </div></a>
             </div>
             <div className="project-card">
+            <a href="https://github.com/RuudyBoy/Semester-project2">
                 <img className="project-image" src={semester} alt="sneek peak of project"/>
             <div className="project-info">
                 <h4>Semester project</h4>
                 <p> This site is displaying a website where you can shop clothes. This was a project from Noroff.</p>
-            </div>
+            </div></a>
             </div>
         </div>
         <div className="portfolio-image" >

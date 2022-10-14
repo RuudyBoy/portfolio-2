@@ -11,7 +11,7 @@
   }
 
   .home-info h1 {
-    color: #a52f2f;
+    color: #be3838;
   }
 
   .cta-button {
@@ -21,6 +21,12 @@
     padding: 5px 1em;
     border: none;
     border-radius: 5px;
+  }
+
+  .cta-button:hover {
+    color: white;
+    box-shadow: black 2px 2px;
+    background: #be3838;
   }
   
 

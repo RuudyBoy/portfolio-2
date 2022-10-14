@@ -15,7 +15,15 @@
 
 .project-card {
     margin: 10px;
-   
+}
+
+.project-card a {
+    text-decoration: none;
+}
+
+.project-info:hover {
+    box-shadow: black 2px 2px;
+    background: #be3838;
 }
 
 
