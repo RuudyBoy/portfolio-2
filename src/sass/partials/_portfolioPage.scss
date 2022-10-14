@@ -3,26 +3,53 @@
     grid-template-columns: 1fr 1fr 1fr;
 }
 
-
-
 .projects-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
 
+.project-image {
+    width: 100%;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.project-card {
+    margin: 10px;
+   
+}
+
+
+.project-info {
+    color: white;
+    background: #a52f2f;
+    padding: 10px; 
+    border-radius: 0px 0px 5px 5px;
+    
+}
+
 .meg {
-    width: 500px;
+    width: 80%;
 }
 
 h1 {
-    text-align: center;
+    text-align: left;
 }
 
 h2 {
-    text-align: center;
+    text-align: left;
+}
+
+h4 {
+    text-align: left;
+}
+
+p {
+    text-align: left;
+    font-size: 1em;
+    max-width: 80%;
 }
 
 .meg-hjemme {
-    width: 400px;
+    width: 80%;
     margin: 0px auto;
 }
