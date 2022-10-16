@@ -11,7 +11,7 @@ export default function Home() {
             <img  src={logo} alt="sneek peak of project"/>
             <h1> My Portfolio</h1>
             <p> A student who are finished with my frontend development studies at Noroff. My focus is on writing clean and efficient code. I am a big fan of React, HTML5, CSS/SCSS and plain Javascript. </p>
-            <Link className="cta-button" to="/portfolio"> Portfolio</Link> 
+            <a className="cta-button" href="/portfolio"> Portfolio</a> 
         </div>
         <div>
             <img className="meg-hjemme" src={meg} alt="sneek peak of project"/>
