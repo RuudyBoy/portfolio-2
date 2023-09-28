@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import meg from "../../images/meg-hjemme.png";
-import logo from "../../images/portfolio-logo-home.png";
+import logo from "../../images/logoHvitXL.png";
 
 export default function Home() {
     return (
